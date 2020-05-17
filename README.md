@@ -1,6 +1,6 @@
 # tictoctoe
 
-A new Flutter application.
+- cant play with computer
 
 ## Getting Started
 
